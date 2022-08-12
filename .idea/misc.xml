@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/drawable-v24/background_btn.xml" value="0.1985" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/drawable-v24/background_edittext.xml" value="0.1985" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/drawable-v24/ic_baseline_add_48.xml" value="0.189" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/drawable-v24/ic_empty.xml" value="0.189" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_add_diary.xml" value="0.32395833333333335" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_login.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_main.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_register.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_splash_screen.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/activity_update_diary.xml" value="0.240625" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/fragment_about.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/fragment_diary.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/fragment_setting.xml" value="0.3314447592067989" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/layout/my_row.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/ardia/AndroidStudioProjects/UASAKB10119035/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3411458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
